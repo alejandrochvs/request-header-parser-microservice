@@ -1,0 +1,23 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandrochvs/request-header-parser-microservice.git"
+  },
+  "author": "Alejandro Chaves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandrochvs/request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/alejandrochvs/request-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "moment": "^2.17.1"
+  }
+}
