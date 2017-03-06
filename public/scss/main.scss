@@ -1,0 +1,13 @@
+@import 'import/mixins';
+@import 'import/variables';
+body{
+    .main{
+        @include cardStyle();
+        padding:3%;
+        top: 3vh;
+        .right{
+            border-left: solid 2px whitesmoke;
+        }
+    }
+    
+}
